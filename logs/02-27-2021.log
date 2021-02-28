@@ -18,3 +18,11 @@ though because I am not quite profiecnt at commiting my work.
 Like this second entry for the day, how do I push the changes that
 I have made and will this cause a new branch? Only one way to find 
 out.
+
+9:36pm 
+I was sucessfully able to commit my changes and update the repository.
+Know I've moved on to cleaning up some code after finding my old strextract
+function. Created the filex.h and filex.c helper funcitons for handling 
+file handled, However these only deal with POSIX file and should'nt be
+worried about to much. My next move is to integrate the string extraction
+code into the rest of the helpers functions. 
