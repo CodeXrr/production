@@ -5,4 +5,12 @@ is helpful but dosn't explalin how this process is actually carried
 out and executed. 
 Step 1: Make changes to a repo. And then we need to add to the git-repo
 using the git add command. This adds the specified files to the index
-and stages things for commiting later. 
+and stages things for commiting later. (git add [FILEs])
+Step 2: Now that the changes have been staged the next step is commiting
+them, before we commit we can check the status by runnning (git status).
+Once we confirm this is what we want we commit the changes by running 
+(git commit -m ["message"])
+Step 3: Finally, to reflect our changes we need to push this to our remote repo
+via (git push [https://github.com/[username]/[repo.git]]), we will be prompted 
+for our credintials and the changes will be made. 
+Summary: add, commit, push
