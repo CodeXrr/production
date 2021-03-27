@@ -1,0 +1,8 @@
+12:26pm
+Trying to break down the task of updating a git-hub repo. 
+Earlier logs are explain the process vaguly goes over how git
+is helpful but dosn't explalin how this process is actually carried
+out and executed. 
+Step 1: Make changes to a repo. And then we need to add to the git-repo
+using the git add command. This adds the specified files to the index
+and stages things for commiting later. 
